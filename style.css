@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho {
+    background-color: #A17848;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+
+}
+
+
+li {
+    display: inline-block;
+    margin: 0 16px;
+}
